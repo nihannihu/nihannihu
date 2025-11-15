@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there, Nihan Nihu 👋<br><br>I'm a Bachelor of Engineering (B.E.) student in Computer Science at Visvesvaraya Technological University (VTU).<br><br>My passion lies in technology, especially **computer networking** and **full-stack development**. I have hands-on experience with a variety of programming languages including **Java**, **Node.js**, **C**, **JavaScript**, **PHP**, and **SQL**, along with web fundamentals like **HTML** and **CSS**. I am also proficient with the **CodeIgniter** framework.<br><br>I'm actively seeking new opportunities to apply my skills to real-world projects and collaborate with other developers. Take a look at my repositories to see what I'm building!
+### Hi there, am Nihan Nihu 👋<br><br>I'm a Bachelor of Engineering (B.E.) student in Computer Science at Visvesvaraya Technological University (VTU).<br><br>My passion lies in technology, especially **computer networking** and **full-stack development**. I have hands-on experience with a variety of programming languages including **Java**, **Node.js**, **C**, **JavaScript**, **PHP**, and **SQL**, along with web fundamentals like **HTML** and **CSS**. I am also proficient with the **CodeIgniter** framework.<br>
 
 
 ## 🌐 Socials:
